@@ -1,0 +1,17 @@
+abbreviation: CN
+available: false
+classes: 8
+colour: 51
+id: 0
+label: COIN
+longName: coi
+name: Coi
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/coi.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 24
