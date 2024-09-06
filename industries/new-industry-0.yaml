@@ -6,31 +6,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
-- - - 0
-    - 0
-    - -1
-    - -1
-    - -1
-  - - -1
-    - -1
-    - -1
-    - -1
-    - -1
-  - - -1
-    - -1
-    - -1
-    - -1
-    - -1
-  - - -1
-    - 0
-    - 0
-    - 1
-    - -1
-  - - -1
-    - -1
-    - -1
-    - 1
-    - -1
+- - - -1
 name: 'New industry #0'
 placement: anywhere
 probabilityInGame: 5
@@ -59,6 +35,6 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/new-industry-0/3.png
-      left: -31
+      left: -32
       top: 0
 type: primary
